@@ -4,8 +4,8 @@ This repository contains my personal solutions to the [Rustlings](https://github
 
 ## Structure
 
-- `exercises/` — the original exercise files (with TODOs to fill in)
-- `solutions/` — my completed solutions
+- `exercises/` — my completed solutions
+- `solutions/` — the official Rustlings solutions
 
 ## Topics Covered
 
